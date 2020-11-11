@@ -1,0 +1,14 @@
+# Possible tree types: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/TreeType.html
+# Possible biomes: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/block/Biome.html
+# (scroll down to Enum Constant Summary)
+
+ACACIA:
+  - SAVANNA
+  - SAVANNA_PLATEAU
+  - SHATTERED_SAVANNA
+  - SHATTERED_SAVANNA_PLATEAU
+
+BIRCH:
+  - BIRCH_FOREST
+  - BIRCH_FOREST_HILLS
+  - FLOWER_FOREST
